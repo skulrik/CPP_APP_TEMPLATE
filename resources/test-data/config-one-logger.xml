@@ -1,0 +1,10 @@
+<configuration>
+    <logging>
+        <loggers>
+            <logger>
+                <type>console</type>
+            </logger>
+        </loggers>
+    </logging>
+</configuration>
+
